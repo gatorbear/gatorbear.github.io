@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Connor Coddington Campaign",
+    "description": "",
+    "home_page_url": "https://gatorbear.github.io",
+    "feed_url": "https://gatorbear.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Connor Coddington"
+    },
+    "items": [
+        {
+            "id": "https://gatorbear.github.io/test-post.html",
+            "url": "https://gatorbear.github.io/test-post.html",
+            "title": "Test Post",
+            "author": {
+                "name": "Connor Coddington"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-06T13:11:05-04:00",
+            "date_modified": "2020-04-06T13:11:05-04:00"
+        }
+    ]
+}

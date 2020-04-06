@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Connor Coddington Campaign</title>
+    <link href="https://gatorbear.github.io/feed.xml" rel="self" />
+    <link href="https://gatorbear.github.io" />
+    <updated>2020-04-06T13:22:19-04:00</updated>
+    <author>
+        <name>Connor Coddington</name>
+    </author>
+    <id>https://gatorbear.github.io</id>
+
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Connor Coddington</name>
+        </author>
+        <link href="https://gatorbear.github.io/test-post.html"/>
+        <id>https://gatorbear.github.io/test-post.html</id>
+
+        <updated>2020-04-06T13:11:05-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
