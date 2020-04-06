@@ -10,16 +10,46 @@
     },
     "items": [
         {
+            "id": "https://gatorbear.github.io/experience.html",
+            "url": "https://gatorbear.github.io/experience.html",
+            "title": "Experience",
+            "summary": "Orientation leader: 2019 Desk assistant: 2020 Themed Entertainment Assiciation Treasurer: 2019-2020 ",
+            "content_html": "<p>Orientation leader: 2019</p>\n<p>Desk assistant: 2020</p>\n<p>Themed Entertainment Assiciation Treasurer: 2019-2020</p>\n<p> </p>",
+            "author": {
+                "name": "Connor Coddington"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-06T16:54:38-04:00",
+            "date_modified": "2020-04-06T16:54:38-04:00"
+        },
+        {
+            "id": "https://gatorbear.github.io/sga-experience.html",
+            "url": "https://gatorbear.github.io/sga-experience.html",
+            "title": "SGA Experience",
+            "summary": "Most sentior officer in SGA 2017-2018: Associate Justice 2018: Judicial Treasurer 2018-2019: Sophomore Rep 2018-2019: Audit and budget chair 2019-2020: Junior Representative 2019-2020: Senate President ",
+            "content_html": "<p>Most sentior officer in SGA</p>\n<p>2017-2018: Associate Justice</p>\n<p>2018: Judicial Treasurer</p>\n<p>2018-2019: Sophomore Rep</p>\n<p>2018-2019: Audit and budget chair</p>\n<p>2019-2020: Junior Representative</p>\n<p>2019-2020: Senate President</p>\n<p> </p>",
+            "author": {
+                "name": "Connor Coddington"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-06T16:19:56-04:00",
+            "date_modified": "2020-04-06T16:19:56-04:00"
+        },
+        {
             "id": "https://gatorbear.github.io/test-post.html",
             "url": "https://gatorbear.github.io/test-post.html",
             "title": "Test Post",
+            "summary": "You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me&hellip;",
+            "content_html": "You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae You should vote for me becauae",
             "author": {
                 "name": "Connor Coddington"
             },
             "tags": [
             ],
             "date_published": "2020-04-06T13:11:05-04:00",
-            "date_modified": "2020-04-06T13:11:05-04:00"
+            "date_modified": "2020-04-06T16:02:51-04:00"
         }
     ]
 }
