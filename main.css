@@ -13,7 +13,7 @@ body .Wrapper {
 
 @media (min-width: 750px) {
   body .Wrapper {
-    max-width: 1440px;
+    max-width: 100%;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: 45% 55%;
